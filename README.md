@@ -10,5 +10,6 @@ Requires:
 Note: this will run a lot quicker if you remove the Blast function (which will check that the probes don't match any other genes in the genome). To do this comment out lines 148-198.
 
 Output: 
+
 "Output" folder contains fasta file with 52 base reverse complement binding region for the probe
 "Final" folder contains fasta files with final probes, with the HCR appended sequences
