@@ -15,3 +15,5 @@ Output:
 
 "Output" folder contains fasta file with 52 base reverse complement binding region for the probe.
 "Final" folder contains fasta files with final probes, with the HCR appended sequences.
+
+Modified code originally from https://github.com/EngreitzLab/hypr-seq/tree/master/probe-design
